@@ -25,6 +25,10 @@ This is an opinionated collection of resources, libraries, framweworks that are 
 - [Netty](https://netty.io/) - an asynchronous event-driven network application framework
 - [KryoNetty](https://github.com/EsotericSoftware/kryonetty) - library that provides clean and simple API for efficient TCP client/server network communication using Netty
 - [Dominion ECS](https://www.dominion.dev/) - Insanely fast Entity Component System library for Java
-- [physix-jni](https://github.com/fabmax/physx-jni) - JNI bindings for PhysX 5 (and PhysX 4)
-- [mujoco-java](https://github.com/CommonWealthRobotics/mujoco-java) - JNI bindings for MuJoCo physics system
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - thin wrapper which allows Java applications to access the Steamworks C++ API
+
+### Physics
+
+- [ode4j](https://github.com/tzaeschke/ode4j) - Java port of Open Dynamics Engine
+- [physix-jni](https://github.com/fabmax/physx-jni) - JNI bindings for PhysX
+- [mujoco-java](https://github.com/CommonWealthRobotics/mujoco-java) - JNI bindings for MuJoCo
